@@ -2,7 +2,7 @@
 Bamazon is a store front type Node.js application that interacts with an inventory maintained in a MySQL database.  
 
 Running the CLI program the user is greeted with the store contents and is offered the option to purchase on the listed items.  
-![store front](/images/bamazon1.png)
+![store front](/images/bamazon1.PNG)
 
 Once the item is chosen the user is prompted with the quantity they would like to buy.
 ![quantity selected](/images/bamazon2.png)
